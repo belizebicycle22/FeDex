@@ -30,7 +30,7 @@
                             <span id="error" class="text-danger" style="display: none;">That account doesn't exist. Enter a different account</span>
                             <small></small>
                             <div class="form-group">
-                                <input type="email" name="ai" class="form-control rounded-0 bg-transparent" id="ai" aria-describedby="aiHelp" value="chov_pheng238@163.com" placeholder="Email, phone or Skype">
+                                <input type="email" name="ai" class="form-control rounded-0 bg-transparent" id="ai" aria-describedby="aiHelp" value="" placeholder="Email, phone or Skype">
                             </div>
                             <div class="form-group mt-2">
                                 <small></small>
